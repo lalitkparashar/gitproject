@@ -3,5 +3,8 @@ body {
     display: flexbox;
     border: seagreen;
     grid-template: read;
+    src: format(f);
+    grid-gap: x-zzzzzzzzzzz;
+    ruby-span: attr(s);
 
 }
