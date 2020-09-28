@@ -6,6 +6,4 @@ body {
     src: format(f);
     grid-gap: x-zzzzzzzzzzz;
     ruby-span: attr(s);
-    mylastlineto check;
-
 }
